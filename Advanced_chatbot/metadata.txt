@@ -1,0 +1,8 @@
+[general]
+name=ChatGISBot
+description=Natural language interface for generating PostGIS SQL queries within QGIS
+version=1.0
+qgisMinimumVersion=3.28
+author=Nemeh Abu Issa, Mayar
+email=example@email.com
+category=Analysis
